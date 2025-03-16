@@ -24,7 +24,6 @@ public class ImplAccountService implements AccountService {
     @Override
     public void createAccount(CustomerDto customerDto) {
         Customer newCustomer = CustomerMapper.customerDtoToCustomer(customerDto, new Customer());
-        Optional<Customer> alreadyExistCustomer = customerRepository.findByMobile(newCustomer.getMobile()).orElseThrow(() -> new CustomerAlreadyExistException("Customer Already Resgistred With Given Mobile Number " + newCustomer.getMobile()));
         Customer savedCustoemer = customerRepository.save(newCustomer);
         Account newAccount = createAccount(savedCustoemer);
         accountRepository.save(newAccount);
