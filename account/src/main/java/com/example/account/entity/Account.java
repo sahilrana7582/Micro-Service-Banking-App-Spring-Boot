@@ -32,5 +32,5 @@ public class Account {
 
     private String branchAddress;
 
-    private Customer customerId;
+    private Long customerId;
 }
