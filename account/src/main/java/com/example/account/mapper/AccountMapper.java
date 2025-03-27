@@ -2,6 +2,7 @@ package com.example.account.mapper;
 
 
 import com.example.account.dto.AccountDto;
+import com.example.account.entity.Account;
 
 public class AccountMapper {
 
@@ -16,7 +17,7 @@ public class AccountMapper {
         return accountDto;
     }
 
-    public static com.example.account.entity.Account accountDtoToAccount(AccountDto accountDto, com.example.account.entity.Account account) {
+    public static Account accountDtoToAccount(AccountDto accountDto, com.example.account.entity.Account account) {
         account.setAccountNumber(accountDto.getAccountNumber());
         account.setBranchName(accountDto.getBranchName());
         account.setBranchCode(accountDto.getBranchCode());

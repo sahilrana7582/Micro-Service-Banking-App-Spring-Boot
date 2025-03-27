@@ -1,0 +1,47 @@
+server:
+  port: 8080
+
+spring:
+  zipkin:
+    base-url: http://localhost:9411
+  sleuth:
+    sampler:
+      probability: 1.0
+  application:
+    name: api-gateway
+  cloud:
+    gateway:
+      routes:
+        - id: account-service
+          uri: http://localhost:8081
+          predicates:
+            - Path=/api/account/**
+        - id: card-service
+          uri: lb://card-service
+          predicates:
+            - Path=/api/card/**
+      default-filters:
+        - DedupeResponseHeader=Access-Control-Allow-Origin Access-Control-Allow-Credentials, RETAIN_FIRST
+        - AddResponseHeader=Access-Control-Allow-Origin, "*"
+  discovery:
+    client:
+      simple:
+        instances:
+          card-service:
+            - instanceId: card1
+              host: localhost
+              port: 8001
+            - instanceId: card2
+              host: localhost
+              port: 8002
+            - instanceId: card3
+              host: localhost
+              port: 8003
+            - instanceId: card4
+              host: localhost
+              port: 8004
+
+management:
+  tracing:
+    sampling:
+      probability: 1.0

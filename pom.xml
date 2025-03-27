@@ -1,0 +1,15 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.yourdomain.banking</groupId>
+	<artifactId>banking-microservices</artifactId>
+	<version>1.0.0</version>
+	<packaging>pom</packaging>
+
+	<modules>
+		<module>account</module>
+		<module>card</module>
+		<module>service-discovery</module>
+		<module>api-gateway</module>
+	</modules>
+
+</project>

@@ -11,7 +11,7 @@ import org.springframework.web.context.request.WebRequest;
 import java.time.LocalDateTime;
 
 @ControllerAdvice
-public class GlobalException {
+public class GlobalException extends RuntimeException {
 
 
     @ExceptionHandler(CustomerAlreadyExistException.class)

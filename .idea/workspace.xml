@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0940397-da7a-4364-8156-a02fb1da7394" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/org/example/Creational/Builder/Example1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/org/example/Creational/Builder/Example1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/org/example/Creational/Builder/Example2/ComplexAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/org/example/Creational/Builder/Example2/ComplexProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/org/example/Creational/Builder/Example2/ComplexUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/org/example/Creational/Builder/Example2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/src/main/java/com/example/account/dto/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/src/main/java/com/example/account/dto/CardDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/src/main/java/com/example/account/service/CardClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/src/main/java/com/example/account/service/event/AccountCreatedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/com/example/api_gateway/api_gateway/config/GatewayConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/com/example/api_gateway/api_gateway/filters/LoggingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/src/main/java/com/example/card/CardApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/src/main/java/com/example/card/config/KafkaConsumerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/src/main/java/com/example/card/controller/CardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/src/main/java/com/example/card/dto/CardDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/src/main/java/com/example/card/dto/ResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/src/main/java/com/example/card/entity/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/src/main/java/com/example/card/mapper/CardMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/src/main/java/com/example/card/repository/CardRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/src/main/java/com/example/card/service/AccountCreatedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/src/main/java/com/example/card/service/AccountEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/src/main/java/com/example/card/service/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card/src/test/java/com/example/account/CardApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Micro-Services.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/account/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/src/main/java/com/example/account/AccountApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/java/com/example/account/AccountApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/src/main/java/com/example/account/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/java/com/example/account/controller/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/src/main/java/com/example/account/dto/AccountDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/java/com/example/account/dto/AccountDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/src/main/java/com/example/account/dto/CustomerDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/java/com/example/account/dto/CustomerDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/src/main/java/com/example/account/dto/ErrorResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/java/com/example/account/dto/ErrorResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/src/main/java/com/example/account/dto/ResponseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/java/com/example/account/dto/ResponseData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/src/main/java/com/example/account/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/java/com/example/account/entity/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/src/main/java/com/example/account/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/java/com/example/account/entity/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/src/main/java/com/example/account/exception/GlobalException.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/java/com/example/account/exception/GlobalException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/src/main/java/com/example/account/mapper/AccountMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/java/com/example/account/mapper/AccountMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/src/main/java/com/example/account/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/java/com/example/account/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/src/main/java/com/example/account/service/impl/ImplAccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/java/com/example/account/service/impl/ImplAccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/DesignPatterns">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2uNy9mE4DrZoWMtKkTihKT4811i" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.AccountApplication.executor": "Run",
+    "Application.ApiGatewayApplication.executor": "Run",
+    "Application.CardApplication.executor": "Run",
+    "Application.DemoApplication.executor": "Run",
+    "Gradle.DesignPatterns [:org.example.Creational.Builder.Example1.Main.main()].executor": "Debug",
+    "Gradle.DesignPatterns [:org.example.Creational.Builder.Example2.Main.main()].executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/krishna/Desktop/Learning Java + SrpingBoot/Micro-Services",
+    "onboarding.tips.debug.path": "/Users/krishna/Desktop/Learning Java + SrpingBoot/Micro-Services/DesignPatterns/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.account.mapper" />
+      <recent name="com.example.account.dto" />
+      <recent name="com.example.account.repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CardApplication">
+    <configuration name="AccountApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.account.AccountApplication" />
+      <module name="account" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.api_gateway.api_gateway.ApiGatewayApplication" />
+      <module name="api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.api_gateway.api_gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardApplication" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.card.CardApplication" />
+      <module name="account (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.card.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.Creational.Builder.Example2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Creational.Builder.Example2.Main" />
+      <module name="DesignPatterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Creational.Builder.Example2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AccountApplication" />
+      <item itemvalue="Application.ApiGatewayApplication" />
+      <item itemvalue="Application.CardApplication" />
+      <item itemvalue="Application.DemoApplication" />
+      <item itemvalue="Application.org.example.Creational.Builder.Example2.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CardApplication" />
+        <item itemvalue="Application.AccountApplication" />
+        <item itemvalue="Application.ApiGatewayApplication" />
+        <item itemvalue="Application.DemoApplication" />
+        <item itemvalue="Application.org.example.Creational.Builder.Example2.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0940397-da7a-4364-8156-a02fb1da7394" name="Changes" comment="" />
+      <created>1742103177995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742103177995</updated>
+    </task>
+    <servers />
+  </component>
+</project>

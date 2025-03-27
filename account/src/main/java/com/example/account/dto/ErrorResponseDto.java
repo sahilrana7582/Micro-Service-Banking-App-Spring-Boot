@@ -1,13 +1,16 @@
 package com.example.account.dto;
 
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
+import lombok.*;
 import org.springframework.http.HttpStatus;
 
 import java.time.LocalDateTime;
 
-@Data @AllArgsConstructor
+@Setter
+@Getter
+@AllArgsConstructor
+@NoArgsConstructor
+@Data
 public class ErrorResponseDto {
 
     private String apiPath;

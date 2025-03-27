@@ -24,4 +24,5 @@ public class AccountDto {
     private Double balance;
 
     private String branchAddress;
+
 }

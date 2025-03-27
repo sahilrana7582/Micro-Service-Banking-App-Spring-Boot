@@ -5,8 +5,8 @@ import lombok.*;
 
 @Setter
 @Getter
- @NoArgsConstructor
-@Data @AllArgsConstructor
+@AllArgsConstructor
+@NoArgsConstructor
 public class CustomerDto {
 
     private String firstName;
@@ -20,4 +20,5 @@ public class CustomerDto {
     private String username;
 
     private int age;
+
 }

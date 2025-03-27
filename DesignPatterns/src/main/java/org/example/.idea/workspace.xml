@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2257307e-d8b7-43f3-940b-2bbe36f5ca78" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/Builder/Example1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/Builder/Example1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/Builder/Example2/ComplexAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/Builder/Example2/ComplexProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/Builder/Example2/ComplexUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/Builder/Example2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/dto/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/dto/CardDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/service/CardClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/service/event/AccountCreatedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../api-gateway/src/main/java/com/example/api_gateway/api_gateway/config/GatewayConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../api-gateway/src/main/java/com/example/api_gateway/api_gateway/filters/LoggingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/src/main/java/com/example/card/CardApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/src/main/java/com/example/card/config/KafkaConsumerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/src/main/java/com/example/card/controller/CardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/src/main/java/com/example/card/dto/CardDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/src/main/java/com/example/card/dto/ResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/src/main/java/com/example/card/entity/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/src/main/java/com/example/card/mapper/CardMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/src/main/java/com/example/card/repository/CardRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/src/main/java/com/example/card/service/AccountCreatedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/src/main/java/com/example/card/service/AccountEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/src/main/java/com/example/card/service/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../card/src/test/java/com/example/account/CardApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../.idea/Micro-Services.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../Java_Design_Pattern/src/main/java/org/example/Builder/Example1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../Java_Design_Pattern/src/main/java/org/example/Builder/Example1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../Java_Design_Pattern/src/main/java/org/example/Builder/Example1/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../Java_Design_Pattern/src/main/java/org/example/Builder/Example1/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../Java_Design_Pattern/src/main/java/org/example/Builder/Example2/ComplexAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../Java_Design_Pattern/src/main/java/org/example/Builder/Example2/ComplexAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../Java_Design_Pattern/src/main/java/org/example/Builder/Example2/ComplexProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../Java_Design_Pattern/src/main/java/org/example/Builder/Example2/ComplexProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../Java_Design_Pattern/src/main/java/org/example/Builder/Example2/ComplexUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../Java_Design_Pattern/src/main/java/org/example/Builder/Example2/ComplexUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../Java_Design_Pattern/src/main/java/org/example/Builder/Example2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../Java_Design_Pattern/src/main/java/org/example/Builder/Example2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../account/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../account/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/AccountApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/AccountApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/controller/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/dto/AccountDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/dto/AccountDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/dto/CustomerDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/dto/CustomerDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/dto/ErrorResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/dto/ErrorResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/dto/ResponseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/dto/ResponseData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/entity/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/entity/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/exception/GlobalException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/exception/GlobalException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/mapper/AccountMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/mapper/AccountMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/service/impl/ImplAccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../account/src/main/java/com/example/account/service/impl/ImplAccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../account/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../account/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2ubjjsNN6cc4FlkKtmYGt81I0QO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/krishna/Desktop/Learning Java + SrpingBoot/Micro-Services/DesignPatterns/src/main/java/org/example"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2257307e-d8b7-43f3-940b-2bbe36f5ca78" name="Changes" comment="" />
+      <created>1742524305404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742524305404</updated>
+    </task>
+    <servers />
+  </component>
+</project>
